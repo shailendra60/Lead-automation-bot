@@ -6,7 +6,7 @@ Automated Lead Intake &amp; Budget-Based Categorization System
 Automated Lead Intake & Budget-Based Categorization System
 
 **Overview**
-This project is an autonomous workflow built in n8n that automates the initial stages of the sales funnel. It is designed to capture potential customer data via a project lead form and provide instant categorization and notification, ensuring that high-priority leads are identified immediately without human intervention.
+This project is an autonomous workflow built in n8n that automates the initial stages of the sales funnel. It is designed to capture potential customer data via a project lead form and provide instant categorization and notification, ensuring that high-priority leads are identified immediately without human intervention and entries are created in Google Sheet.
 
 **Business Value & Problem** 
 Solved Manual lead sorting is time-consuming and prone to delays. This automation solves these challenges by:
